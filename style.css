@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+.container {
+    color:rgb(235, 236, 238);
+    font-family: Libre Baskerville;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 2.5rem;
+}
+
+p {
+    font-size: .75rem;
+    line-height: 1.5;
+}
+
+.motivational-image {
+    width: 100%;
+    margin-top: 70px;
+    border: 5px white solid ;
+}
